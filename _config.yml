@@ -1,2 +1,6 @@
 theme: jekyll-theme-midnight
 markdown: GFM
+exclude: [ LICENSE ]
+plugins:
+  - jemoji
+  - jekyll-optional-front-matter
