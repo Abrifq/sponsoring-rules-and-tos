@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# :globe_with_meridians:
 
-You can use the [editor on GitHub](https://github.com/Abrifq/sponsoring-rules-and-tos/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+- [TR - Turkish - Türkçe](#TR)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [EN - English](#EN)
 
-### Markdown
+## TR
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Selam! Buraya geldiysen ya projelerimi sevdin ya da
+sponsor olmak hakkında daha fazla bilgi almak istiyorsun. Ne güzel!
 
-```markdown
-Syntax highlighted code block
+Türkiye destekçilerine özel olarak [**websiteden destekleme**](./TR/features/support-site.md)
+hazır olduğunda daha uygun bir fiyat sunmayı planlıyorum, o zamana kadar
+Github Sponsors üzerinden destekleyin.
 
-# Header 1
-## Header 2
-### Header 3
+Bunun dışında, bağış/abonelik seviyeleri, ödemeler ile aldığın bonuslar ve
+özellikler hakkında bilgi almak için seni [bu sayfaya alayım.](./TR/README.md)
 
-- Bulleted
-- List
+## EN
 
-1. Numbered
-2. List
+Hey there! If you are here, that means you either liked my projects or
+you just want to get more info about being a sponsor. Cool!
 
-**Bold** and _Italic_ and `Code` text
+When [**"supporting" on website**](./EN/features/support-site.md) feature is ready,
+you will also be able to support me on there, directly. This will allow you to
+access certain bonuses/features faster as I will get the payments more directly.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Abrifq/sponsoring-rules-and-tos/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+To get more info about one-time and monthly payment tiers as well as
+their bonuses and features, visit [this page.](./EN/README.md)
