@@ -1,0 +1,1 @@
+[Anasayfa](../../README.md) > [Giriş](../README.md) > Özellikler
