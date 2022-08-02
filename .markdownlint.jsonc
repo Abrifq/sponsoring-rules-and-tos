@@ -1,5 +1,7 @@
 {
     "no-trailing-punctuation": {
         "punctuation": ".,;!。，；：！"
-    }
+    },
+    "line-length": false, //I want to let markdown parser / HTML renderer to handle that.
+    "first-line-heading": false //I'm using the first line as a navigation bar.
 }

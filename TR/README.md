@@ -13,16 +13,28 @@ Eğer başka bir özellikten bahsediyorsam, o özelliğe de link vermiş olmam l
 **Vermemişsem bir issue açın, etiketleyin veya daha iyisi; PR açın!**
 **_Yaşasın açık kaynak!_**
 
-## [Özellikler][features]
+Hey, dostum, **para verdikten sonra "bu niye böyle" demek istemiyorsan, bunları kesinlikle oku**mak isteyeceksin.
 
-- [Altyapı Taşı Sayfası][founding-stone]
+[Kurallara][rules] buradan göz at
+
+Konulara zıpla:
+
+- [Özellikler](#özellikler)
+- [Destekçi Bonusları](#destekçi-bonusları)
+- [Destek Olma](#destek-olma)
+
+## Özellikler
+
+- Altyapı Taşı Sayfası
   
   [Website][website] hazır olduğunda, sponsorluk seviyene göre
   Altyapı piramidinde gözükeceksin.
   
   Daha yüksek seviyede destek yaparsan piramidin daha yüksek katında bulunacaksın.
 
-- [Ismarlama Proje][commission]
+  [Daha fazla bilgi için buraya bak.][founding-stone]
+
+- Ismarlama Proje
   
   Mail veya Twitter DM üzerinden aklındaki proje için benimle iletişime geçebilirsin.
   Proje kabulünün isteklerin, bütçen ve yeteneklerim ile sınırlı olduğunu unutma.
@@ -32,7 +44,9 @@ Eğer başka bir özellikten bahsediyorsam, o özelliğe de link vermiş olmam l
   Ismarlama projeler illa yeni fikir/proje olmak zorunda değil, açık kaynak bir
   projede bir özelliğin geliştirilmesini istiyorsanız da görüşebilirsiniz.
 
-- [Proje/Özellik için Ödül Koyma][bidding]
+  [Daha fazla bilgi için buraya bak.][commission]
+
+- Proje/Özellik için Ödül Koyma
   
   Diğer insanlar gibi ben de burnout, yani monoton bıkkınlık, yaşayabiliyorum.
   Başka projeler ile uğraşarak ara vermek iyi geliyor, bu yüzden de
@@ -43,16 +57,31 @@ Eğer başka bir özellikten bahsediyorsam, o özelliğe de link vermiş olmam l
   Ayrıca, bu sistem [website][website] üzerinde olacağı için website kuralları
   geçerli olacak.
 
+  [Daha fazla bilgi için buraya bak.][bidding]
+
+- Ödüllü Görev Yapmak
+
+  Bazı ödül koyulan _görevler_, herkesin yapabileceği şekilde ayarlanır.
+  Bu görevleri yaparsanız ve onay alırsanız, ödül başındaki [kredi][bid-credits]yi kazanırsınız.
+  
+  Bu şekilde hem açık kaynak yazılıma destekte bulunabilir hem de para kullanmadan kredi edinebilirsiniz.
+  
+  > Ya para (emek verdiğinizin belirteci) ya da emeğin kendisi ile kredi edinebilirsiniz.
+
+  [Daha fazla bilgi için buraya bak.][bid-questing]
+
 Diğer özellikler için [özellikler sayfasına göz atın.][features]
 
-## [Bonuslar][bonuses]
+## Destekçi Bonusları
 
-- [Discord][discord]
+- Discord
   
   Destek yaptığınız hesaba Discord hesabınızı bağladığınızda,
   _resmi_ Discord sunucusunda rütbe gibi kozmetikler elde edeceksiniz.
   
   Discord sunucusuna **katılmak için destek olmanıza gerek yok.**
+
+  [Bütün özelliklere buradan bakabilirsiniz.][discord]
 
 - Projelere özel bonuslar
   
@@ -67,7 +96,7 @@ Diğer özellikler için [özellikler sayfasına göz atın.][features]
 
 Daha fazlası için [bonuslar sayfasına göz atın.][bonuses]
 
-## [Abonelikler ve Tek Seferlik Destekler][supporting]
+## Destek olma
 
 Abonelikler aylık, tek seferlik destekler tekrarlamayan ödemelerdir.
 
@@ -85,3 +114,4 @@ Destek seviyeleri ve getirileri, kendi sayfalarında yazılıdır.
 [supporting]: ./tiers/README.md
 [bonuses]: ./bonuses/README.md
 [features]: ./features/README.md
+[rules]: ./rules/README.md
