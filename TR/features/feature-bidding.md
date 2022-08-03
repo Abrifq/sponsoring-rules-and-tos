@@ -27,4 +27,4 @@ Ayrıca, açık kaynak projelerde sadece ben değil, başkaları da istediğiniz
 
 [website]: ./website.md
 [commission]: ./project-commissioning.md
-[credits]: ../rules/credits.md
+[credits]: ./credits.md
