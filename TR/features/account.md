@@ -12,7 +12,7 @@ Kullanıcının site özelliklerini kötüye kullanması veya suistimal etmesi, 
 
 Bazı özellikler susturulan hesaplarda kullanılmaya devam edilebilirken, bazı özellikler ise tamamen engelli olacaktır.
 
-Susturulan veya askıya alınan hesapların cezaları geçici veya kalıcı olabilir. Verilen cezalar ilişkilendirilen kredi kartı veya hesaplar gibi bilgileri takip ederek yeni oluşturulan hesapları da otomatik cezalayabilir.
+Susturulan veya askıya alınan hesapların cezaları geçici veya kalıcı olabilir. Verilen cezalar ilişkilendirilen kredi kartı veya hesaplar gibi bilgileri takip ederek yeni oluşturulan hesapları da otomatik cezalandırabilir.
 
 [website]: ./website.md
 [supporting]: ../tiers/README.md
