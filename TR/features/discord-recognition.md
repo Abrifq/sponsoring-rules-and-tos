@@ -8,9 +8,7 @@ Discord hesabınızı [site hesabınıza][account] bağlarsanız şu özellikler
 
 - Abonelik Hatırlatma
   
-  [Aboneliğinizin][supporting] yenileme günü yakınlaşınca,
-  bot size DM atar. Bu şekilde, kullanmadığınız aboneliği hatırlayıp iptal edebilir
-  veya kartınıza gereken bakiyeyi yükleyebilirsiniz.
+  [Aboneliğinizin][supporting] yenileme günü yakınlaşınca, bot size DM atar. Bu şekilde, kullanmadığınız aboneliği hatırlayıp iptal edebilir veya kartınıza gereken bakiyeyi yükleyebilirsiniz.
 
 - Ödül Avcılığı
 
@@ -20,16 +18,13 @@ Resmi sunucuyu kullanmak için sadece bir Discord hesabı kullanmanız yeterli.
 
 - Forum
   
-  Birbirinize sorular sorup cevap alabildiğiniz ve tam tersini
-  yapabildiğiniz, Discord temelli, ilkel bir forum sistemi.
+  Birbirinize sorular sorup cevap alabildiğiniz ve tam tersini yapabildiğiniz, Discord temelli, ilkel bir forum sistemi.
   
   Herkesin kullanımına açık olmasını planlıyorum.
 
 - Forum Bağlama
   
-  Forum içi yaptığınız konuşmaları, forum siteye
-  taşınınca bile devam edebilin diye, [bağlı hesabınız][account]ı kullanarak
-  konuşmaya aynı isimle devam edin.
+  Forum içi yaptığınız konuşmaları, forum siteye taşınınca bile devam edebilin diye, [bağlı hesabınız][account]ı kullanarak konuşmaya aynı isimle devam edin.
   
   Herkesin kullanımına açık olmasını planlıyorum.
 
@@ -43,18 +38,14 @@ bağlamalısınız.
   Işıklı mışıklı isimler.
   Ayrıca çıkartma/sunucu dışı emoji gönderme yetkisi.
   
-  Bunların moderasyonu biraz zor olduğu için bu bariyeri koyma
-  gereksinimi duydum.
+  Bunların moderasyonu biraz zor olduğu için bu bariyeri koyma gereksinimi duydum.
 
 - Özel Geri Bildirimler
   
   "Gözümden kaçamayacak" şekilde geri bildirimlerinizi iletin.
-  
-  Normal kullanıcılar yine, herkese açık geri bildirim kanallarını kullanarak
-  ulaşabilirler.
-  
-  Burada bahsettiğim bildirim bana sistem üzerinden
-  geleceği için bakması biraz daha kolay olacak.
+  Normal kullanıcılar yine, herkese açık geri bildirim kanallarını kullanarak ulaşabilirler.
+
+  Burada bahsettiğim bildirim bana sistem üzerinden geleceği için bakması biraz daha kolay olacak.
   
   Kullanım sıklığı, çokluğu ve kullanana göre, bu özelliğe bekleme süresi eklenebilir.
 

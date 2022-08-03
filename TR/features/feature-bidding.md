@@ -11,8 +11,7 @@ ama dikkatimi çekmenin çok daha iyi bir yolu var:
 **Özelliğin başına ödül koymak!**
 Nasıl yani?
 
-[Site][website] içindeki [kredileriniz][credits]i kullanarak
-istediğiniz bir şeye önem vermeye _çalışırım._
+[Site][website] içindeki [kredileriniz][credits]i kullanarak istediğiniz bir şeye önem vermeye _çalışırım._
 
 Bu özellik herkese açıktır ancak başlıca kredi edinme yöntemi ödeme/aboneliktir.
 
@@ -20,12 +19,9 @@ Sıfırdan proje fikriniz varsa sizi [ısmarlama][commission] sayfasına alayım
 
 ## Açık Kaynak
 
-Benim olmayanlar dahil, açık kaynak bir projede bir özelliğin
-yapılması için ödül koyabilirsiniz; ancak bu istekler,
-[ısmarlama projeler][commission] gibi onay sürecinden geçmesinden gerekiyor.
+Benim olmayanlar dahil, açık kaynak bir projede bir özelliğin yapılması için ödül koyabilirsiniz; ancak bu istekler, [ısmarlama projeler][commission] gibi onay sürecinden geçmesinden gerekiyor.
 
-Ayrıca, açık kaynak projelerde sadece ben değil, başkaları da
-istediğiniz özelliği yapabilir.
+Ayrıca, açık kaynak projelerde sadece ben değil, başkaları da istediğiniz özelliği yapabilir.
 
 Özelliğin yapılması durumunda, krediler yapan kişiye ödüllendirilir.
 
