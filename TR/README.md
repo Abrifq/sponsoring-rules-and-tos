@@ -13,6 +13,11 @@ Eğer başka bir özellikten bahsediyorsam, o özelliğe de link vermiş olmam l
 **Vermemişsem bir issue açın, etiketleyin veya daha iyisi; PR açın!**
 **_Yaşasın açık kaynak!_**
 
+> Hey, dostum, bunları kesinlikle okumak isteyeceksin. Sonra demedi deme.
+
+[Kurallara][rules] buradan göz at
+===
+
 ## [Özellikler][features]
 
 - [Altyapı Taşı Sayfası][founding-stone]
@@ -85,3 +90,4 @@ Destek seviyeleri ve getirileri, kendi sayfalarında yazılıdır.
 [supporting]: ./tiers/README.md
 [bonuses]: ./bonuses/README.md
 [features]: ./features/README.md
+[rules]: ./rules/README.md
