@@ -12,6 +12,12 @@ Discord hesabınızı [site hesabınıza][account] bağlarsanız şu özellikler
 
 - Ödül Avcılığı
 
+  Ödül koyma hakkında bilgi almak için [projelere ödül koyma][bidding] sayfasını ziyaret edin.
+
+  Discord botu ile etkileşerek koyduğunuz ödüller hakkında gelişmeleri takip edin, açık görevlere göz atın, teslim kontrolü için bildirim gönderin.
+
+  Ayrıca [kredi][credits] bakiyenizi de kontrol edebilirsiniz.
+
 ## Resmi Discord Sunucusu için Özellikler
 
 Resmi sunucuyu kullanmak için sadece bir Discord hesabı kullanmanız yeterli.
@@ -51,3 +57,5 @@ bağlamalısınız.
 
 [account]: ./account.md
 [supporting]: ../tiers/README.md
+[bidding]: ./feature-bidding.md
+[credits]: ./credits.md
