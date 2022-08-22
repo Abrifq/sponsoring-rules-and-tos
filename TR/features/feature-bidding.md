@@ -13,6 +13,8 @@ Nasıl yani?
 
 [Site][website] içindeki [kredileriniz][credits]i kullanarak istediğiniz bir şeye önem vermeye _çalışırım._
 
+> (bkz. [ödül sistemi neden var][reason-of-bidding])
+
 Bu özellik herkese açıktır ancak başlıca kredi edinme yöntemi ödeme/aboneliktir.
 
 Sıfırdan proje fikriniz varsa sizi [ısmarlama][commission] sayfasına alayım.
