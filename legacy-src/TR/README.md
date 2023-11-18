@@ -5,7 +5,7 @@
 Selam! Sponsor olmayı düşündüğün için yeniden teşekkürler.
 
 Verdiğin paranın biraz daha değeri olması için birkaç özellik ekledim ama ben de
-farkındayım ki, kuralları önceden belirlemezsem, herkes suistimal edebiliyor.
+farkındayım ki, kuralları önden belirlemezsem, herkes suistimal edebiliyor.
 
 Genel olarak, bir özellik hakkında bilgi almak için o özelliğin sayfasına gitmelisin.
 Eğer başka bir özellikten bahsediyorsam, o özelliğe de link vermiş olmam lazım.
@@ -28,7 +28,7 @@ Konulara zıpla:
 - Altyapı Taşı Sayfası
   
   [Website][website] hazır olduğunda, sponsorluk seviyene göre
-  Altyapı piramidinde gözükeceksin.
+  Altyapı piramidinde görüneceksin.
   
   Daha yüksek seviyede destek yaparsan piramidin daha yüksek katında bulunacaksın.
 
