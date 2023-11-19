@@ -5,6 +5,8 @@
 
 This list does not represent a linear timeline. I might jump from one task to another.
 
+## General Goals
+
 - [ ] Starting goals
   - [ ] Define Goals
   - [ ] Define Tiers
@@ -17,11 +19,12 @@ This list does not represent a linear timeline. I might jump from one task to an
 
 - [ ] Detailed Goals (Starting goals define these)
   - [ ] Bonus' Platforms
-    - [ ] Account Manager: account.\[  DOMAIN NOT FINAL \]
+    - [ ] Account Manager: account.domain
       - [ ] Setup Github linking
       - [ ] Setup Discord linking
       - [ ] Setup Account verification
       - [ ] Setup Account creating for public
+      - [ ] Mail relays?
     - [ ] Platform: FeatureHunt
       - [ ] Setup Account Linking
       - [ ] Setup Credit system
