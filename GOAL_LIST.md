@@ -76,11 +76,17 @@ Accounts have warm (frequently accessed) info and cold (rarely accessed) info:
   - profile_name (P.S. guys, use made up names if you are worried of your name leaking.)
   - pronouns (I'm not the pronoun guy but people _will_ want this eventually)
   - profile_picture_url
-  - profile badges
+  - [profile_badges][badge]
 - Cold
   - Badge details
   - Supporter details
   - Relay email - (better than giving out your real email to 3rd parties)
+
+#### Supporter pyramid
+
+Mostly a flex thing.
+
+Depending on your tier you'll be placed on a row of the support pyramid
 
 #### Badges
 
