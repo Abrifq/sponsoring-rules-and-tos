@@ -6,6 +6,8 @@
 
 - [EN - English](#en). Follow the development of this repo [here][todo-list]
 
+See [LICENSE](./LICENSE) file for code and content licenses.
+
 ## TR
 
 Selam! Buraya geldiysen ya projelerimi sevdin ya da
