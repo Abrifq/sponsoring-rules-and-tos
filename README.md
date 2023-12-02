@@ -13,7 +13,7 @@ See [LICENSE](./LICENSE) file for code and content licenses.
 Selam! Buraya geldiysen ya projelerimi sevdin ya da
 sponsor olmak hakkında daha fazla bilgi almak istiyorsun. Ne güzel!
 
-**Yeni klasör tasarımını oturtana kadar, aşağıdaki bilgiler geçersizdir. Yine de, dosyaların eski haline bakmak istiyorsan [eski kaynak][lsrc] klasörüne göz at. (Linkler bozuk olabilir, kusura bakmayın)**
+**Yeni klasör tasarımını oturtana kadar, aşağıdaki bilgiler sitede yer almıyor. Yine de, dosyaların eski haline bakmak istiyorsan [eski kaynak][lsrc] klasörüne göz at. (Linkler bozuk olabilir, kusura bakmayın)**
 
 ===
 
@@ -29,7 +29,7 @@ sponsor olmak hakkında daha fazla bilgi almak istiyorsun. Ne güzel!
 Hey there! If you are here, that means you either liked my projects or
 you just want to get more info about being a sponsor. Cool!
 
-**Until I finish the new folder hierarchy, the info below is considered invalid. If you still want to take a look at the old files, take a look at the [legacy source][lsrc] folder. (Links may be broken, sorry)**
+**Until I finish the new folder hierarchy, the info below are not in the website. If you still want to take a look at the old files, take a look at the [legacy source][lsrc] folder. (Links may be broken, sorry)**
 
 ===
 
