@@ -1,0 +1,27 @@
+{
+  "name": "@abrifq/sponsoring-docs",
+  "version": "0.0.0",
+  "description": "Rules, goals, sponsoring bonuses. see https://github.com/sponsors/Abrifq for more details",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vitepress dev src",
+    "docs:build": "vitepress build src",
+    "docs:preview": "vitepress preview src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abrifq/sponsoring-rules-and-tos.git"
+  },
+  "author": "Arda \"Abrifq\" Aydın <2200656005@nku.edu.tr> (https://github.com/Abrifq)",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/Abrifq/sponsoring-rules-and-tos/issues"
+  },
+  "homepage": "https://github.com/Abrifq/sponsoring-rules-and-tos#readme",
+  "devDependencies": {
+    "vitepress": "^1.0.0-rc.31",
+    "vue": "^3.3.9"
+  },
+  "type": "module"
+}
