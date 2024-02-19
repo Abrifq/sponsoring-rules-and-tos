@@ -36,6 +36,7 @@ This list does not represent a linear timeline. I might jump from one task to an
   - [ ] Create a vitepress template for sponsor-docs. (Should have navbar support) (I need to learn vitepress "just enough" for my use case, I'll probably get inspired by [mermaid-js](https://github.com/mermaid-js/mermaid)' [documentation](https://github.com/mermaid-js/mermaid/tree/develop/packages/mermaid/src/docs))
   Notes:
   I want a navbar with folder navigation. <https://docs.github.com/en/packages> is a great example, it has a folder as a normal link, and it has child links. <!-- <https://github.com/github/docs/blob/3b5bc8787c099ec90b4a337f34fcb1cdb510ac13/src/landings/components/SidebarProduct.tsx#L85> -->
+  Welp, I can make a js script that outputs a SideBar data for the sidebar like in the [vitepress docs](https://github.com/vuejs/vitepress/blob/main/docs/.vitepress/config/en.ts#L31)
     - [X] Publish via Vitepress
   - [ ] Churn through sponsoring logs, in the case of a support was made before the bonus was available, try to provide the bonus or compensate it.
 
